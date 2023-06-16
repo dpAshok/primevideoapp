@@ -1,0 +1,6 @@
+.sliderContainer {
+  width: 100%;
+  background-color: lightgray;
+  padding: 40px;
+  display: flex;
+}
